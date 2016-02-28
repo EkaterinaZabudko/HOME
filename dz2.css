@@ -1,0 +1,141 @@
+body {
+        background-color: #F4F4FF;
+    }
+.box1{
+    width: 750px;
+    height: 800px;
+    background-color: white;
+    padding: 5px 25px 25px 25px;
+    margin: 0px auto;
+    border-left: 2px solid #ccc;
+    border-right: 2px solid #ccc;
+}
+p{
+    margin: 10px;
+    padding: 10px;
+    font-size: 40px;
+    
+}
+.box2 {
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+.hr{
+    margin: 0;
+    width: 750px;
+    list-style: none;
+    border: 1px solid #e5e5e5;
+    background: #5D5151;
+    font-family: Georgia, serif;
+    font-size: 18px;
+    float: left;
+    padding: 0;
+    line-height: 40px;
+}
+
+ul.hr li{
+    float: left;
+}
+ul.hr li a{
+    display: block;
+    text-decoration: none;
+    background-color: #5D5151;
+    padding: 5px 10px 0 10px;
+    color: #fefefe;
+    width: 120px;
+}
+.hr a:hover {
+   background: #4E4141;
+    color: white;
+    border: 1px solid #797979;
+}
+.box3 {
+    display: inline-block;
+    margin: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+}
+ul.hp {
+    margin: 110px 0px 0px 0px;
+    height: 215px;
+    width: 180px;
+}
+.hp{
+    list-style: none;
+    border: 2px solid #BFD8BF;
+    background: white;
+    font-family: Georgia, serif;
+    font-size: 18px;
+    padding: 0;
+    line-height: 30px;
+}
+ul.hp li a{
+    display: block;
+    text-decoration: none;
+    background-color: white;
+    padding: 5px 10px 0 10px;
+    color: #000000;
+    width: 160px;
+    border-top: 1px solid #d3d3d3;
+}
+.hp a:hover {
+   background: #f5f5f5;
+    color: black;
+}
+.img {
+    float: right;
+    margin: 90px 0px 0px 0px;
+    border: 1px solid #BFD8BF;
+
+}
+.box4 {
+    width: 490px;
+    
+    float: right;
+    margin: 10px;
+    padding: 10px;
+}
+.box5 {
+    display: inline-block;
+    margin: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+}
+.hd{
+    margin: 0;
+    width: 750px;
+    list-style: none;
+    border: 1px solid #C7A2A2;
+    background: #BFB0B0;
+    font-family: Georgia, serif;
+    font-size: 14px;
+    float: left;
+    padding: 0;
+    line-height: 20px;
+}
+ul.hd li a{
+    display: block;
+    text-decoration: none;
+    background-color: #BFB0B0;
+    padding: 7px 0 0 5px;
+    color: black;
+    width: 100px;
+}
+ul.hd li{
+    float: left;
+}
+.hd a:hover {
+    color: white;
+    text-decoration: underline;
+}
+.end {
+    padding: 5px;
+    margin: 5px 0 0 200px;
+    font-size: 10px;
+    float: right;
+}
